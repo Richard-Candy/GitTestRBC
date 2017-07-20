@@ -1,0 +1,14 @@
+{
+"device" : "{device}",
+"data"   : "{data}"  ,
+"message type" : "{customData#msgtype}" ,
+"presence"  :     "{customData#presence}",
+"temp"      :     "{customData#temp}",
+"current"   :     "{customData#current}",
+"time"      :     "{time}",
+"snr"       :     "{snr}",
+"station"   :     "{station}",
+"lat"       :     "{lat}" ,
+"lng"       :     "{lng}" ,
+"seqNumber" :     "{seqNumber}"
+}
